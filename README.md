@@ -1,2 +1,3 @@
-# Weather_Clone
-Using HTML,CSS and JavaScript
+# weather
+using HTML, CSS and JavaScript create a weather application. 
+
